@@ -37,4 +37,3 @@ Created a simple branch-to-branch network topology using Cisco Packet Tracer.
 \- Firewall placement
 
 \- Internet simulation
-
